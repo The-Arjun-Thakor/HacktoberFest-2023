@@ -10,15 +10,15 @@ function countVowelsAndConsonants(str) {
     var char = str[i];
     
     // Check if the character is a letter
-    if (/[a-z]/.test(char)) {
+    if (/[A-Z]/.test(char)) {
       // Check if the character is a vowel
-      if (/[aeiou]/.test(char)) {
+      if (/[A,E,I,O,U]/.test(char)) {
         vowelCount++;
       } else {
         consonantCount++;
       }
     }
-  }
+  };
   
   return {
     vowels: vowelCount,
@@ -27,7 +27,7 @@ function countVowelsAndConsonants(str) {
 }
 
 // Example usage
-var string = "Hello World";
+var string = "SUCCESSFULL DONE";
 var counts = countVowelsAndConsonants(string);
 
 console.log("Number of vowels: " + counts.vowels);
