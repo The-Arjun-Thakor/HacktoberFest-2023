@@ -152,4 +152,8 @@ Here is my `Vowel_Consonant` example: [Vowel_Consonant_arjunthakor.js](https://g
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
+### Join our amazing community as a code contributor, and help accelerate
 
+<a href="https://github.com/The-Arjun-Thakor/HacktoberFest-2023/graphs/contributors">
+  <img class="dark-light" src="https://contrib.rocks/image?repo=The-Arjun-Thakor/HacktoberFest-2023&anon=0&columns=25&max=100&r=true" />
+</a>
