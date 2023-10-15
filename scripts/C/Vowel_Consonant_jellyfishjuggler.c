@@ -27,6 +27,8 @@ struct VowelConsonantCount countVowelsAndConsonants(const char *str) {
         }
     }
 
+    
+
     return counts;
 }
 
