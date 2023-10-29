@@ -8,6 +8,3 @@
 - Place: Nagpur, Maharashtra, India
 - Bio: Engineering Student
 - Github: [nayanapardhekar](https://github.com/nayanapardhekar)
-
-
-
