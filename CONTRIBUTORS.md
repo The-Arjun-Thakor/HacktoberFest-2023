@@ -8,3 +8,9 @@
 - Bio: New to github and coding in general
 - Github: JellyFishJuggler(https://github.com/JellyFishJuggler)
 
+## Name: [Vinayak Sharma](https://github.com/vinayak19-alt)
+
+- Place: India
+- Bio: Mobile Application Developer
+- Github: vinayak19-alt(https://github.com/vinayak19-alt)
+
